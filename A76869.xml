@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight in Essex upon Fryday last, being the 9 of this instant moneth of June, 1648. betwixt a party of the Essex forces commanded by Captain Beard, and a party of horse, who was going after Goring. With the number that were slain on both sides, and the resolution of the inhabitants of Essex, touching the said Goring and his forces. Likewise, a great fight in the north, and fifty colonels, lieutenant-colonels, majors, captains, and other officers, slain and taken prisoners. With a relation of the Duke of York his landing at Yarmouth in Norfolk with 2000. men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76869</idno>
+            <idno type="STC">Wing B3242</idno>
+            <idno type="STC">Thomason E447_2</idno>
+            <idno type="STC">ESTC R204912</idno>
+            <idno type="EEBO-CITATION">99864360</idno>
+            <idno type="PROQUEST">99864360</idno>
+            <idno type="VID">161797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161797)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight in Essex upon Fryday last, being the 9 of this instant moneth of June, 1648. betwixt a party of the Essex forces commanded by Captain Beard, and a party of horse, who was going after Goring. With the number that were slain on both sides, and the resolution of the inhabitants of Essex, touching the said Goring and his forces. Likewise, a great fight in the north, and fifty colonels, lieutenant-colonels, majors, captains, and other officers, slain and taken prisoners. With a relation of the Duke of York his landing at Yarmouth in Norfolk with 2000. men.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161797:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT IN ESSEX UPON <hi>Fryday</hi> laſt, being the 9 of this inſtant Moneth of June, 1648. betwixt a Party of the <hi>Eſſex</hi> Forces commanded by Captain <hi>Beard,</hi> and a Party of Horſe, who was going after <hi>Goring.</hi>
+            </p>
+            <p>With the number that were ſlain on both ſides, and the Re<g ref="char:EOLhyphen"/>ſolution of the Inhabitants of <hi>Eſsex,</hi> touching the ſaid <hi>Goring</hi> and his Forces.</p>
+            <p>Likewiſewiſe, a great Fight in the North, and fifty Colonels, Lieutenant-colonels, Majors, Captains, and other Officers, ſlain and taken priſoners.</p>
+            <p>With a Relation of the Duke of <hi>York</hi> his landing at <hi>Yar<g ref="char:EOLhyphen"/>mouth</hi> in <hi>Norfolk</hi> with 2000. men.</p>
+            <p>
+               <add>June 12</add> 
+               <hi>LONDON:</hi> Printed for <hi>R. W.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161797:2"/>
+            <pb n="1" facs="tcp:161797:2"/>
+            <head>A great and bloudy FIGHT IN <hi>NORTHAMPTONSHIRE,.</hi> BETWIXT The Parliaments Forces and the Cavaliers.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis morning about 4 or 5 of the clock, there happe<g ref="char:EOLhyphen"/>ned a great Fight within 14 miles of this town, oc<g ref="char:EOLhyphen"/>caſioned by the ſudden purſuit of <hi>Lieceſter</hi> horſe, commanded by Col. <hi>Hacker,</hi> and the <hi>Lincolnſhire</hi> Forces, commanded by col. <hi>Wait,</hi> who fell upon the Enemy at a lit<g ref="char:EOLhyphen"/>tle Village called <hi>Woodcroft</hi> early this morning, and entred into a very ſtrong Engagement, and not diſpute, the Enemy defending of themſelvs very reſolutely, col. <hi>Hudſon</hi> charged Col. <hi>Hacker</hi> with a Forlorn of Horſe, and diſputed the caſe for about half an hour, but at the laſt were forced to retreat but Major <hi>Biſse</hi> drew up with a Reſerve, and flamed colo<g ref="char:EOLhyphen"/>nell
+<pb n="2" facs="tcp:161797:3"/>
+               <hi>Hacker:</hi> whereupon he divided his Body into two Di<g ref="char:EOLhyphen"/>viſions, and charged them both, exchanged ground, and put them to a rout. Col. <hi>Hudſon</hi> and Major <hi>Biſse</hi> was ſlain up<g ref="char:EOLhyphen"/>on the laſt Onſet, capt. <hi>Mercer,</hi> capt. <hi>Shaw,</hi> and capt. <hi>Hawkins</hi> in the purſuit. Lieut. Col. <hi>Green</hi> was alſo deſperately woun<g ref="char:EOLhyphen"/>ded, with about 30. more, and hath taken priſoners Lieut. col. <hi>Shaw,</hi> Major <hi>Dalton,</hi> and neer upon 40. Captains, Lieu<g ref="char:EOLhyphen"/>nants, Enſignes, and other inferiour Officers, beſides 200. common ſouldiers, the reſt got over hedges and eſcaped: they loſt alſo neer upon 300. armes.</p>
+            <p>Theſe were Officers that were appointed to have raiſed two Regiments for the King, in <hi>Lincolnſhire</hi> and other coun<g ref="char:EOLhyphen"/>ties adjacent. We are now putting our ſelves into a poſture of defence, and to unite our ſelves together in a firme and u<g ref="char:EOLhyphen"/>nanimous aſſociation, to oppoſe all Forces whatſoever, ei<g ref="char:EOLhyphen"/>ther forraign or domeſtique, that ſhall obſtruct or hinder the peace and tranquility of the Northern Aſſociations.</p>
+            <closer>
+               <dateline>Northampton <date>9. June, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from <hi>Eſſex,</hi> declaring the manner of the last Fight upon Fryday laſt, being the <hi>8.</hi> of this inſtant <hi>June, 1648.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis morning about <hi>8.</hi> of the clock in the forenoon, Cap<g ref="char:EOLhyphen"/>tain <hi>Beard</hi> (a Tanner, being exerciſing a Company of the <hi>Eſſex</hi> Foot, a party of Horſe appeared within ſight and on a ſudden advanced, and gave fire on them, retreated and rallied again: whereupon the Captain perceiving that it was an Enemy, put his men into a poſture to receive them, and upon their ſecond-charge gave them a volley, which cauſed two of their Troopers to diſmount, with the loſse of one man on our ſide; inſomuch, that at the laſt here began a deſperate engage<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:161797:3"/>which continued in diſpute for the ſpace of half an houre, but at the laſt the ſaid troop of Horſe retreated, and as we ſup<g ref="char:EOLhyphen"/>poſe, are gone towards <hi>Goring,</hi> for ſince we are informed, that it was a troop raiſed by a great Delinquent, and formerly an actuall Enemy against the Parliament: it is ſuppoſed, there was ſome great perſon among them, by reaſon of the two Sumpture Horſes, who (as we are informed ſince) were laden with great store of rich treaſure.</p>
+            <p>There was ſlaine in this Conflict to the number of <hi>8.</hi> ſive of ours, and three of the Enemies, and one taken priſoner, who is ſince dead.</p>
+            <p>The <hi>Eſſex</hi> men are much incenſed againſt <hi>Goring,</hi> and his party, and are reſolved to oppoſe him, and to cleer the County of all his Confederates, moſt of the Inhabitants of this County ha<g ref="char:EOLhyphen"/>ving unanimouſly declared both againſt him and his procee<g ref="char:EOLhyphen"/>dings; for it is credibly reported, that he had a great deſigne a<g ref="char:EOLhyphen"/>gainst this Kingdome, and that his endeavours are, for the let<g ref="char:EOLhyphen"/>ting in of a forraign Enemy.</p>
+            <closer>
+               <dateline>Eppington <date>9. June, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>There is a great Rumour, that the Duke of <hi>York</hi> is land<g ref="char:EOLhyphen"/>ed at <hi>Yarmouth</hi> in <hi>Norfolk,</hi> with 2 or 3000. men; but I give you this not for any reall truth I ſuppoſe to be in it, but that you may ſee the various Rumours that are ſpread abroad; therefore you may take it rather for a report of thoſe that would have it ſo, then for a certainty that it is ſo.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161797:4"/>
+            <head>A Declaration of the Parliaments Forces in the North, and of the proceedings of the Forces in <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe work goes on apace, touching the raiſing of new Forces, and putting of them in a Regimental way of Diſcipline, and our Forces have declared their una<g ref="char:EOLhyphen"/>nimous Reſolutions to fight the Enemy. Col. <hi>Lilborn</hi> with M. Gen. <hi>Lambert,</hi> going to the quarters of, Sir Marmaduke Langdale, faced a conſiderable party of them, but they had no mind to ingage, Lancaſhire ſtands firm for the Parlia<g ref="char:EOLhyphen"/>ment <hi>Graydan</hi> L. <hi>Roxborows</hi> creature, and our Engliſh C. <hi>E<g ref="char:EOLhyphen"/>rington</hi> have brought two Troops of Scots horſe on this ſide Tweed: our Engliſh Troops at Anwick, have fetched in Collonell <hi>Weldens</hi> Wheat, leaſt the enemy at Bar<g ref="char:EOLhyphen"/>wick take it, as they did him; we are here in great fears both from Scotland and <hi>Langdale;</hi> and expect they come come with Armies into this Country within this week: the people ſee no help from Parliament, and therefore wiſely for the other ſide, as likeſt to prevail and ſay, they perceive the Kings party is permitted to grow the better to make terms for the King Lord Argile is gon to a Caſtle which he is Captain of, not having a mind to truſt a Parliament, the Parliament have ſummoned his return and if be comes not its like they will proceed againſt him, <hi>Langdale</hi> is ſtill eſti<g ref="char:EOLhyphen"/>mated 10000 he wants mony &amp; begins to weary his friends which will put him upon a ſuddain remove.</p>
+            <p>Our affaires here are more and more diſtracting (which would not be) did you in South, as wee heare, beare up up gallantly againſt them who intend the diſtruction of all
+<pb n="5" facs="tcp:161797:4" rendition="simple:additions"/>in both, that fear an oath, in Tindale was lately a great con<g ref="char:EOLhyphen"/>vention of perſons of quality, as the Lord <hi>Lothian, Roxbo<g ref="char:EOLhyphen"/>row, Grainſtone,</hi> and others, divers Knights and Barons, with moſt of the Gentry of Tindale and Marſe, about raiſing men for England, at which appeared, out of ſour Presbyteries, di<g ref="char:EOLhyphen"/>vers Miniſters, and Elders, on behalf of the reſpective pa<g ref="char:EOLhyphen"/>riſhes, who preſented their Petitions, that the Parliament would give ſatisfactory anſwer to their eight Propoſitions, and untill that be done, to proceed no further in an ingage<g ref="char:EOLhyphen"/>ment; great diſputes were, but at laſt the moderate party carried it, that they would Petition to the Parliament accor<g ref="char:EOLhyphen"/>ding to the Miniſters deſire, It was ordered that the Petiti<g ref="char:EOLhyphen"/>ons ſhould be compared, whether they all tended to the ſame thing; and when two diſaffected to the Church were named for that work, there aroſe a new debate, and upon the queſti<g ref="char:EOLhyphen"/>on, they were forbidden, and two others appointed upon known integrity, which gave great content to the godly people, and ſo inraged the other, that in a deep melancholly, hanging down their heads, they rod out of town with a droo<g ref="char:EOLhyphen"/>ping company. The Lord <hi>Hume</hi> hath choſen all his Officers, but for men, he can get none; ſome few are taken up by Ma<g ref="char:EOLhyphen"/>jor <hi>Hume</hi> at <hi>Olnwick,</hi> and ſent into <hi>Glendale,</hi> to quarter there: <hi>Kelſoe</hi> hath petitioned to the Committee, though a<g ref="char:EOLhyphen"/>gainſt the Lord <hi>Roxborow: Fife</hi> and <hi>Angus</hi> will not raiſe a man, but by way of oppoſition, hath put themſelves in a poſture of defence; <hi>Argile</hi> and other ſhires, do the like, and this backwardneſſe ariſeth, as for other reaſons, ſo chiefly becauſe Duke <hi>Hamilton</hi> is Generall; it; believed the pre<g ref="char:EOLhyphen"/>ſent force continued to this time, will not diſband untill they have their Arrears. Nothing ſo much incourages rai<g ref="char:EOLhyphen"/>ſing an Army here as that the Parliament of England ſends none to the North, to ſuppreſſe <hi>Langdale,</hi> and thoſe under his command, and thoſe thoſe that like not this War here, therefore think all is be come Cavaliers in the South; that no care is taken to regain Barwick and Carliſle; the Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="6" facs="tcp:161797:5"/>preach here violently againſt the war, and ſay, that they that lead on this expedition are theeves, and companions of theeves, with other like expreſſiions: divers Miniſters are choſen to go to Edinburgh, to Solicite their Petition.</p>
+            <p>The great differences in Scotl. doth retard yet is not like to hinder an Armies comming for England, and what more incouragement can be given, then that there comes not force enough from the Parla, to ſuppreſſe the Engliſh gathered under <hi>Langdale,</hi> that the deſign goes on, appears in that Bar<g ref="char:EOLhyphen"/>wick and Carliſle are ſupplied with Arms and other things from Scotland, <hi>Lotherdale</hi> ſent lately 22 load in to Barwick its conceived they are well armed in Cumberland, a party from thence laſt Friday took Major <hi>Shafto,</hi> with 16 of his men he was raiſing a troop of horſe about Beywell theſe were ſurpriſed by Collonel <hi>Carnaby,</hi> and others of the Country that knew the way to them: the Major is carryed to Carliſle this is a great diſcouragement to others that were arming. <hi>Langdale</hi> had muſters about Heturſell, and Grindon, and others, and news is come, that his main body will quarter a Heman this night, or to morrow; they may come whither they will, or go whither they will, nothing comes to us therewith to oppoſe them: the Scots in Ireland are dayly expected, mony is ſent to fetch them; the Parl ia<g ref="char:EOLhyphen"/>ment at Edinburgh ſits again, great matters are expected.</p>
+            <closer/>
+            <postscript>
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>Gilbert Mabbot.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
